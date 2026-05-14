@@ -1,2 +1,3 @@
 # transformer-weight-sensitivity
-Support code for the Presentation seminar course at FER.
+# Pokretanje programske potpore
+Sve upute za pokretanje nalaze se u documentation.pdf u ovome repozitoriju.
